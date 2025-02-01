@@ -1,0 +1,7 @@
+--library gorg-hxutils
+--macro include('gorg', true)
+--no-output
+--each
+
+--next
+--cpp bin/cpp
